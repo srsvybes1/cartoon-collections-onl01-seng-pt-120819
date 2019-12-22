@@ -1,6 +1,6 @@
 def roll_call_dwavres(dwarf)
   dwarf = ["Doc", "Dopey", "Bashful", "Grumpy"]
-  dwarf.each_with_index {|num, dwarf|}
+  dwarf.each_with_index {|num, dwarf| puts ""}
 end
 
 def summon_captan_planet# code an argument here
