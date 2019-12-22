@@ -1,5 +1,6 @@
-def roll_call_dwares# code an argument here
-  # Your code here
+def roll_call_dwavres(dwarf)
+  dwarf = ["Doc", "Dopey", "Bashful", "Grumpy"]
+  
 end
 
 def summon_captan_planet# code an argument here
